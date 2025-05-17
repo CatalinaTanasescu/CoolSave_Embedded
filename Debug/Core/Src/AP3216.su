@@ -1,0 +1,2 @@
+../Core/Src/AP3216.c:15:19:AP3216C_Init	40	static
+../Core/Src/AP3216.c:39:19:AP3216C_ReadALS	40	static
